@@ -1,0 +1,14 @@
+1. Version control: also known as source control, is the practice of tracking and managing changes to software code
+2. git: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+3. process of commiting a project to git hub:
+	create a new repo in you git hub account
+	go to your terminal to clone your repo
+	create you readme file
+	git add,commit and push to your repo 
+		or
+	git int
+ 	git add
+	git commit
+	git branch
+	git push to your repo
